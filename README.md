@@ -2,6 +2,6 @@
 
 - To run the monorepo
     - cd my-turborepo
-    - pnpm install
-    - pnpm build
-    - pnpm dev
+    - npm install
+    - npm run build
+    - npm run dev
